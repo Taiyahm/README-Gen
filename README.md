@@ -24,14 +24,16 @@ To install necessary dependencies, run the following command:
 npm i
 ```
 
- ## Usage
+  ## Usage
   To start, run the following command:
   
   ```
   node index.js 
   ```
-
-  ## License 
+ outcome:
+ ![image](https://user-images.githubusercontent.com/72588525/110214712-e1d36b00-7e73-11eb-808c-20d94c3fb2be.png)
+  
+  ## License  
 
   This project is licensed under MIT license
 
