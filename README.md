@@ -1,11 +1,11 @@
 
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-#Name of project
+#README-Gen
 
   ## Description
 
-  Short description
+  This node command line app can generate a README for the users project. 
 
   ## Table of Contents
 
@@ -18,14 +18,23 @@
   * [Questions](#question) 
 
   ## Installation 
-  npm i
+    To install necessary dependencies, run the following command:
+
+    ```
+    npm i
+    ```
+
 
   ## Usage
-  Usage
+  Run
+  ```
+  node index.js 
+  ```
+  in the command line.
 
   ## License 
 
-  This project is licensed under Apache License 2.0 license
+  This project is licensed under MIT license
 
   ## Contributors
 
@@ -33,9 +42,13 @@
 
   ## Test
 
-  npm run test
+  To run tests, run the following command:
 
+    ```
+    npm run test
+
+    ```
   ## Questions
 
-  If there are any questions, contact me at gituser@gmail.com. You can find more of my work at [Github user](https://github.com/Github user/).
+  If there are any questions, contact me at taiyah23@gmail.com. You can find more of my work at [Taiyahm](https://github.com/Taiyahm/).
   

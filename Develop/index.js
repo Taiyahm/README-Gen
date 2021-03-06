@@ -36,7 +36,7 @@ const questions = [
         name: "license",
         message: "What type of license would you like?",
         choices: [
-            "Apache License 2.0",
+            "Apache License %202.0",
             "GNU GPLv3",
             "MIT",
             "ISC",
