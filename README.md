@@ -3,7 +3,7 @@
 
 # README-Gen
 
-  ## Description
+## Description
 
   This node command line app can generate a README for the users project. 
 
@@ -16,15 +16,15 @@
   * [Test](#Test)
   * [Questions](#question) 
 
-  ## Installation 
-    To install necessary dependencies, run the following command:
+ ## Installation
+ 
+To install necessary dependencies, run the following command:
 
-   
-    npm i
+```
+npm i
+```
 
-
-
-  ## Usage
+ ## Usage
   To start, run the following command:
   
   ```
