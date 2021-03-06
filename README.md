@@ -47,9 +47,9 @@ npm i
 
   To run tests, run the following command:
 
-    ```
-    npm run test
-    ```
+  ```
+  npm run test
+  ```
   ## Questions
 
   If there are any questions, contact me at taiyah23@gmail.com. You can find more of my work at [Taiyahm](https://github.com/Taiyahm/).
