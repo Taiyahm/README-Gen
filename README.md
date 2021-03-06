@@ -8,8 +8,7 @@
   This node command line app can generate a README for the users project. 
 
   ## Table of Contents
-
-  * [Description](#Description)
+  
   * [Installation](#Installation)
   * [Usage](#Usage)
   * [Licence](#Licence)
