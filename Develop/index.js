@@ -23,13 +23,13 @@ const questions = [
         
         type: "input",
         name: "installation",
-        message: "What command should be ran to install dependencies?"
+        message: "What command should be ran to install dependencies?",
+        default: "npm i"
     },
     {
         type: "input",
         name: "test",
         message: "What command should be ran to run tests?",
-        default: "npm i"
     },
     {
         type: "list",
