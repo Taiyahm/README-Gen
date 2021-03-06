@@ -3,7 +3,7 @@
 
   ## Description
 
-  short descript of project
+  short description of project
 
   ## Table of Contents
 
