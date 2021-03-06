@@ -1,12 +1,13 @@
-  ![badge](https://img.shields.io/badge/license-MIT-blue.svg)
-# README
+  ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-  ## Description
+# README-Gen
 
-  short description of project
+## Description
+
+  This is node command line app where a user can generate a README file from inputing the details of their README. The README file is generated and saved to the       user's current folder
 
   ## Table of Contents
-
+  
   * [Installation](#Installation)
   * [Usage](#Usage)
   * [Licence](#Licence)
@@ -14,28 +15,44 @@
   * [Test](#Test)
   * [Questions](#question) 
 
-  ## Installation 
-  npm i
+ ## Installation
+ 
+To install necessary dependencies, run the following command:
+
+```
+npm i
+```
 
   ## Usage
-  none
-
-  ## License 
+  To start, run the following command:
+  
+  ```
+  node index.js 
+  ```
+  ## Video
+  * [Demo Video](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=cb618a7b-e3fe-479d-94a3-ace3012f2105)
+  
+ outcome:
+ ![image](https://user-images.githubusercontent.com/72588525/110214712-e1d36b00-7e73-11eb-808c-20d94c3fb2be.png)
+  
+  ## License  
 
   This project is licensed under MIT license
 
   ## Contributors
 
-  pull request welccomed
+  Pull requests are welcome
 
   ## Test
 
-  npm run test
+  To run tests, run the following command:
 
+    ```
+    npm run test
+    ```
   ## Questions
 
-  If there are any questions, contact me at gituser@gmail.com. You can find more of my work at [gituser](https://github.com/gituser/).
-  
+  If there are any questions, contact me at taiyah23@gmail.com. You can find more of my work at [Taiyahm](https://github.com/Taiyahm/).
   
 
   
