@@ -26,11 +26,10 @@
 
 
   ## Usage
-  Run
+  To start, run un the following command:
   ```
   node index.js 
   ```
-  in the command line.
 
   ## License 
 
@@ -38,7 +37,7 @@
 
   ## Contributors
 
-  Contributors
+  Pull requests are welcome
 
   ## Test
 
