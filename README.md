@@ -5,7 +5,7 @@
 
 ## Description
 
-  This node command line app can generate a README for the users project. 
+  This is node command line app where a user can generate a README file from inputing the details of their README. The README file is generated and saved to the       user's current folder
 
   ## Table of Contents
   
