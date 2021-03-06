@@ -19,13 +19,14 @@
   ## Installation 
     To install necessary dependencies, run the following command:
 
-    ```
+   
     npm i
-    ```
+
 
 
   ## Usage
   To start, run the following command:
+  
   ```
   node index.js 
   ```
@@ -44,7 +45,6 @@
 
     ```
     npm run test
-
     ```
   ## Questions
 
