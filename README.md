@@ -12,7 +12,6 @@
   * [Usage](#Usage)
   * [Licence](#Licence)
   * [Contributors](#Contributors)
-  * [Test](#Test)
   * [Questions](#question) 
 
  ## Installation
