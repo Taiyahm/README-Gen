@@ -26,7 +26,7 @@
 
 
   ## Usage
-  To start, run un the following command:
+  To start, run the following command:
   ```
   node index.js 
   ```
